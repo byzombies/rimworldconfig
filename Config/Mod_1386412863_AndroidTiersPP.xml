@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MOARANDROIDS.Settings">
+		<mindSkyCloudMigrationHours>3</mindSkyCloudMigrationHours>
+		<mindUploadHour>2</mindUploadHour>
+		<mindUploadToSkyCloudHours>4</mindUploadToSkyCloudHours>
+		<wattConsumedByT1>100</wattConsumedByT1>
+		<wattConsumedByT2>200</wattConsumedByT2>
+		<wattConsumedByT3>300</wattConsumedByT3>
+		<wattConsumedByT4>400</wattConsumedByT4>
+		<wattConsumedByT5>500</wattConsumedByT5>
+		<wattConsumedByM7>700</wattConsumedByM7>
+		<nbHoursMaxServerRunningHotBeforeExplode>12</nbHoursMaxServerRunningHotBeforeExplode>
+		<nbHoursMinServerRunningHotBeforeExplode>4</nbHoursMinServerRunningHotBeforeExplode>
+		<nbHoursMaxSkyCloudServerRunningHotBeforeExplode>24</nbHoursMaxSkyCloudServerRunningHotBeforeExplode>
+		<nbHoursMinSkyCloudServerRunningHotBeforeExplode>8</nbHoursMinSkyCloudServerRunningHotBeforeExplode>
+		<costPlayerHack>1200</costPlayerHack>
+		<hideInactiveSurrogates>False</hideInactiveSurrogates>
+		<androidsCanConsumeLivingPlants>False</androidsCanConsumeLivingPlants>
+		<minDaysAndroidPaintingCanRust>35</minDaysAndroidPaintingCanRust>
+		<maxDaysAndroidPaintingCanRust>90</maxDaysAndroidPaintingCanRust>
+		<chanceGeneratedAndroidCanBePaintedOrRust>0.15</chanceGeneratedAndroidCanBePaintedOrRust>
+		<basicAndroidsRandomSKills>True</basicAndroidsRandomSKills>
+		<allowT5ToWearClothes>False</allowT5ToWearClothes>
+	</ModSettings>
+</SettingsBlock>

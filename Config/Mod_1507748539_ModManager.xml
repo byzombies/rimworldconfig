@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ModManager.ModManagerSettings">
+		<ModAttributes />
+		<ButtonAttributes />
+		<ShowPromotions>False</ShowPromotions>
+		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>
+		<ShowSatisfiedRequirements>True</ShowSatisfiedRequirements>
+	</ModSettings>
+</SettingsBlock>

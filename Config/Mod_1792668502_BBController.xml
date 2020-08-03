@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BBBodySupport.BBbodyOption">
+		<FemaleToBBChance>0.75</FemaleToBBChance>
+		<ThinToBBChance>0</ThinToBBChance>
+		<HulkToBBChance>0</HulkToBBChance>
+		<FatToBBChance>0.15</FatToBBChance>
+		<SupportedAlienRaces>
+			<keys>
+				<li>Alien_Kijin</li>
+				<li>Alien_Orassan</li>
+				<li>Alien_Asari_Blue</li>
+				<li>Alien_Asari_Violet</li>
+				<li>Alien_Asari_Lightblue</li>
+				<li>Alien_Asari_Green</li>
+				<li>Alien_Drow_Otto</li>
+				<li>O21_Alien_DarkElf</li>
+				<li>O21_Alien_MoonElf</li>
+				<li>O21_Alien_SunElf</li>
+				<li>O21_Alien_WoodElf</li>
+				<li>O21_Alien_Kobold</li>
+				<li>ChjAndroid</li>
+				<li>Alien_Astoriel</li>
+				<li>ReviaRaceAlien</li>
+				<li>O21_Alien_Tiefling</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</SupportedAlienRaces>
+	</ModSettings>
+</SettingsBlock>

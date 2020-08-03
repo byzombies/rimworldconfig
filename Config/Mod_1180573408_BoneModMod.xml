@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BoneMod.BoneModSettings">
+		<boneFactor>0.5070422</boneFactor>
+	</ModSettings>
+</SettingsBlock>

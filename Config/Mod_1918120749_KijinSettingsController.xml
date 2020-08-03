@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Kijin2.KijinSettings">
+		<UseKijinCloth>True</UseKijinCloth>
+		<UseKijinClothEnemyFaction>True</UseKijinClothEnemyFaction>
+		<UseVanillaFace>False</UseVanillaFace>
+		<AssasinEventOn>False</AssasinEventOn>
+		<NoPlantWasted>0.04381438</NoPlantWasted>
+		<EndGameWealth>200000</EndGameWealth>
+		<EndGameWealthBuffer>200000</EndGameWealthBuffer>
+		<EndGameDays>60</EndGameDays>
+		<EndGameDaysBuffer>60</EndGameDaysBuffer>
+	</ModSettings>
+</SettingsBlock>

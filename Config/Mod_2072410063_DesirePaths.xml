@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DesirePaths.Settings">
+		<pathCreateThreshold>80</pathCreateThreshold>
+		<pathDegradeThreshold>120</pathDegradeThreshold>
+	</ModSettings>
+</SettingsBlock>

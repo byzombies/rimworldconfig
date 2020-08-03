@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.MFM.Settings">
+		<lastVersionInfo>Update 1.5.22</lastVersionInfo>
+		<allowNonZeroOtherSkillsMerc>True</allowNonZeroOtherSkillsMerc>
+		<powerBeamCost>9500</powerBeamCost>
+		<transportStandardMaxHour>96</transportStandardMaxHour>
+		<minEliteMelee>1</minEliteMelee>
+		<minCyborgMelee>1</minCyborgMelee>
+		<minEliteRanged>1</minEliteRanged>
+		<minCyborgRanged>1</minCyborgRanged>
+		<minElite>1</minElite>
+		<minCyborg>1</minCyborg>
+		<mustHaveTraits />
+		<blacklistedWeapons />
+		<blacklistedPawnKind>
+			<li>M7MechPawn</li>
+			<li>Android5Tier</li>
+		</blacklistedPawnKind>
+		<blacklistedTraitsV2>
+			<li>wimp</li>
+			<li>pyromaniac</li>
+			<li>abrasive</li>
+			<li>nervous</li>
+			<li>volatile</li>
+			<li>psychically hypersensitive</li>
+			<li>psychically sensitive</li>
+			<li>pessimist</li>
+			<li>depressive</li>
+		</blacklistedTraitsV2>
+		<hediffToNotClear>
+			<li>DummyPrivates</li>
+			<li>DummyPrivatesForModdedPawnsOnBirthday</li>
+		</hediffToNotClear>
+	</ModSettings>
+</SettingsBlock>

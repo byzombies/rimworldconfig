@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MoreEvents.Settings">
+		<EventsSettings>
+			<keys>
+				<li>General</li>
+				<li>ShipCrash</li>
+				<li>Supernova</li>
+				<li>NoSun</li>
+				<li>SuperHeatWave</li>
+				<li>MechanoidPortal</li>
+				<li>Disease_NeurofibromatousWorms</li>
+				<li>Disease_Fibrodysplasia</li>
+				<li>DestroyRoad</li>
+				<li>BoulderMassHit</li>
+				<li>BeetleRush</li>
+				<li>RadiationFon</li>
+				<li>IceStorm</li>
+				<li>HeavyAir</li>
+				<li>LeanAtmosphere</li>
+				<li>SandStorm</li>
+				<li>Endlessday</li>
+				<li>DenseAtmosphere</li>
+				<li>ClimateBomb</li>
+				<li>IonizedAtmosphere</li>
+				<li>RimOverhaul_Earthquake</li>
+				<li>SiegeCamp</li>
+				<li>AttackFriendlySettlement</li>
+				<li>Constellations</li>
+				<li>MineralMeteorite</li>
+				<li>DropAnimalInsanity</li>
+				<li>HungryCannibalRaid</li>
+				<li>DoomsdayUltimatum</li>
+				<li>Arsonists</li>
+				<li>UnifiedRaid</li>
+				<li>Quest_ResourceHelp</li>
+				<li>Quest_BuildNewBase</li>
+				<li>Quest_MissingPeople</li>
+				<li>Psychogas</li>
+				<li>Disease_ZeroMechanites</li>
+				<li>SummerSolstice</li>
+				<li>Pocahontas</li>
+				<li>SeaAir</li>
+				<li>MountainAir</li>
+				<li>Quest_KillLeader</li>
+				<li>Quest_SuppressionRebellion</li>
+				<li>RimOverhaul_SpaceBattle</li>
+				<li>Quest_KillOrder</li>
+				<li>ConcantrationCamp</li>
+				<li>TunnelRats</li>
+				<li>RaidEnemyWithAnimals</li>
+				<li>HighMutantPopulation</li>
+				<li>Fair</li>
+				<li>ExplosiveFever</li>
+				<li>GlacialPeriod</li>
+				<li>ActiveStar</li>
+				<li>Competitions</li>
+				<li>MassBurial</li>
+				<li>PlaceBattle</li>
+				<li>AmbushTwoFactions</li>
+				<li>Quest_PrisonShipAccident</li>
+			</keys>
+			<values>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>General</Key>
+					<UseCustomLabels>True</UseCustomLabels>
+					<Parameters>
+						<keys>
+							<li>UseNewMapSizes</li>
+						</keys>
+						<values>
+							<li>
+								<Param>UseNewMapSizes</Param>
+								<Value>1</Value>
+							</li>
+						</values>
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>ShipCrash</Key>
+					<Parameters>
+						<keys>
+							<li>MinParts</li>
+							<li>MaxParts</li>
+							<li>ShipCargo_Mining_MinSupply</li>
+							<li>ShipCargo_Mining_MaxSupply</li>
+							<li>ShipCargo_Food_MinSupply</li>
+							<li>ShipCargo_Food_MaxSupply</li>
+							<li>ShipCargo_Complex_MinSupply</li>
+							<li>ShipCargo_Complex_MaxSupply</li>
+							<li>ShipCargo_Armory_MinSupply</li>
+							<li>ShipCargo_Armory_MaxSupply</li>
+							<li>ShipCargo_Living_MinSupply</li>
+							<li>ShipCargo_Living_MaxSupply</li>
+						</keys>
+						<values>
+							<li>
+								<Param>MinParts</Param>
+								<Value>4</Value>
+							</li>
+							<li>
+								<Param>MaxParts</Param>
+								<Value>10</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Mining_MinSupply</Param>
+								<Value>5</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Mining_MaxSupply</Param>
+								<Value>19</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Food_MinSupply</Param>
+								<Value>5</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Food_MaxSupply</Param>
+								<Value>19</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Complex_MinSupply</Param>
+								<Value>5</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Complex_MaxSupply</Param>
+								<Value>19</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Armory_MinSupply</Param>
+								<Value>5</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Armory_MaxSupply</Param>
+								<Value>12</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Living_MinSupply</Param>
+								<Value>1</Value>
+							</li>
+							<li>
+								<Param>ShipCargo_Living_MaxSupply</Param>
+								<Value>5</Value>
+							</li>
+						</values>
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Supernova</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>NoSun</Key>
+					<Parameters>
+						<keys>
+							<li>Temperature</li>
+						</keys>
+						<values>
+							<li>
+								<Param>Temperature</Param>
+								<Value>-200</Value>
+							</li>
+						</values>
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>SuperHeatWave</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>MechanoidPortal</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Disease_NeurofibromatousWorms</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Disease_Fibrodysplasia</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>DestroyRoad</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>BoulderMassHit</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>BeetleRush</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>RadiationFon</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>IceStorm</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>HeavyAir</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>LeanAtmosphere</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>SandStorm</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Endlessday</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>DenseAtmosphere</Key>
+					<Parameters>
+						<keys>
+							<li>DoMapChange</li>
+						</keys>
+						<values>
+							<li>
+								<Param>DoMapChange</Param>
+								<Value>1</Value>
+							</li>
+						</values>
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>ClimateBomb</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>IonizedAtmosphere</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>RimOverhaul_Earthquake</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>SiegeCamp</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>AttackFriendlySettlement</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Constellations</Key>
+					<Parameters>
+						<keys>
+							<li>EnablePositive</li>
+							<li>EnableNegative</li>
+						</keys>
+						<values>
+							<li>
+								<Param>EnablePositive</Param>
+								<Value>1</Value>
+							</li>
+							<li>
+								<Param>EnableNegative</Param>
+								<Value>1</Value>
+							</li>
+						</values>
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>MineralMeteorite</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>DropAnimalInsanity</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>HungryCannibalRaid</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>DoomsdayUltimatum</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Arsonists</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>UnifiedRaid</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Quest_ResourceHelp</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Quest_BuildNewBase</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Quest_MissingPeople</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Psychogas</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Disease_ZeroMechanites</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>SummerSolstice</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Pocahontas</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>SeaAir</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>MountainAir</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Quest_KillLeader</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Quest_SuppressionRebellion</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>RimOverhaul_SpaceBattle</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Quest_KillOrder</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>ConcantrationCamp</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>TunnelRats</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>RaidEnemyWithAnimals</Key>
+					<UseCustomLabels>True</UseCustomLabels>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>HighMutantPopulation</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Fair</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>ExplosiveFever</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>GlacialPeriod</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>ActiveStar</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Competitions</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>MassBurial</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>PlaceBattle</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>AmbushTwoFactions</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+				<li>
+					<EventActive>True</EventActive>
+					<Key>Quest_PrisonShipAccident</Key>
+					<Parameters>
+						<keys />
+						<values />
+					</Parameters>
+				</li>
+			</values>
+		</EventsSettings>
+	</ModSettings>
+</SettingsBlock>

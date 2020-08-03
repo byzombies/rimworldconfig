@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.PPP.Settings">
+		<MinHourBeforeSTSMeltdown>3</MinHourBeforeSTSMeltdown>
+		<aresDurationV2>1850</aresDurationV2>
+	</ModSettings>
+</SettingsBlock>

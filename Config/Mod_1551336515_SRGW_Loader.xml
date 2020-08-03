@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SometimesRaidsGoWrong.SRGW_Loader+SRGW_Settings">
+		<val_MinimumRoll>1</val_MinimumRoll>
+		<val_MaximumRoll>20</val_MaximumRoll>
+		<mode_debug>False</mode_debug>
+		<mode_highnoon>False</mode_highnoon>
+		<trigger_highNoonInitialTrigger>False</trigger_highNoonInitialTrigger>
+	</ModSettings>
+</SettingsBlock>

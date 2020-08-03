@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DermalRegenerator.DermalRegeneratorSettings">
+		<RegenerationRate>100</RegenerationRate>
+		<DermalSicknessRate>100</DermalSicknessRate>
+		<PowerUsageIdle>100</PowerUsageIdle>
+		<PowerUsageWorking>1000</PowerUsageWorking>
+	</ModSettings>
+</SettingsBlock>

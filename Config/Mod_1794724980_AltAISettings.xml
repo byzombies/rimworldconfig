@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AltAI.AltAIModSettings">
+		<repSapperSmartChance>35</repSapperSmartChance>
+	</ModSettings>
+</SettingsBlock>

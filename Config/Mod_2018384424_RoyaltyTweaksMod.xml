@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TestMod.RoyaltyTweaksSettings">
+		<throneRoomTweaks>True</throneRoomTweaks>
+		<spouseWantsThroneroom>False</spouseWantsThroneroom>
+		<willWorkPassionSkills>True</willWorkPassionSkills>
+		<willWorkOnlyMajorPassionSkills>False</willWorkOnlyMajorPassionSkills>
+		<speechesInspire>True</speechesInspire>
+		<inspiredChance>0.25</inspiredChance>
+	</ModSettings>
+</SettingsBlock>

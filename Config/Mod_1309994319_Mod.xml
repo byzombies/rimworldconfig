@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SmartMedicine.Settings">
+		<stockUpReturn>True</stockUpReturn>
+		<fieldTendingForLackOfBed>True</fieldTendingForLackOfBed>
+	</ModSettings>
+</SettingsBlock>

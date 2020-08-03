@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Numbers.Numbers_Settings">
+		<coolerThanTheWildlifeTab>False</coolerThanTheWildlifeTab>
+		<pawnTableHighlightSelected>False</pawnTableHighlightSelected>
+		<pawnTableClickSelect>False</pawnTableClickSelect>
+		<numbersPawnTableDefs />
+	</ModSettings>
+</SettingsBlock>

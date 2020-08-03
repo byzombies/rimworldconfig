@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CustomDeathRandomness.CDRSettings">
+		<pawnDeathChance>0.5009524</pawnDeathChance>
+	</ModSettings>
+</SettingsBlock>

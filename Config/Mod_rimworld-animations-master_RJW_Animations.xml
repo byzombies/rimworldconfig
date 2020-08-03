@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rimworld_Animations.AnimationSettings">
+		<orgasmQuiver>True</orgasmQuiver>
+		<rapeShiver>True</rapeShiver>
+		<heartsOnLovin>True</heartsOnLovin>
+		<animationOffsets>
+			<keys />
+			<values />
+		</animationOffsets>
+		<rotationOffsets>
+			<keys />
+			<values />
+		</rotationOffsets>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ZombieLand.ZombieSettingsDefaults">
+		<defaults>
+			<spawnWhenType>InEventsOnly</spawnWhenType>
+			<attackMode>Everything</attackMode>
+			<animalsAttackZombies>True</animalsAttackZombies>
+			<smashMode>AnyBuilding</smashMode>
+			<daysBeforeZombiesCome>15</daysBeforeZombiesCome>
+			<maximumNumberOfZombies>150</maximumNumberOfZombies>
+			<baseNumberOfZombiesinEvent>5</baseNumberOfZombiesinEvent>
+			<extraDaysBetweenEvents>5</extraDaysBetweenEvents>
+			<suicideBomberChance>0</suicideBomberChance>
+			<tankyOperatorChance>0</tankyOperatorChance>
+			<minerChance>0</minerChance>
+			<electrifierChance>0</electrifierChance>
+			<moveSpeedTracking>1.012241</moveSpeedTracking>
+			<zombieInstinct>Dull</zombieInstinct>
+			<playCreepyAmbientSound>False</playCreepyAmbientSound>
+			<hoursInfectionIsTreatable>96</hoursInfectionIsTreatable>
+			<anyTreatmentStopsInfection>True</anyTreatmentStopsInfection>
+			<corpsesExtractAmount>0</corpsesExtractAmount>
+			<corpsesHoursToDessicated>4</corpsesHoursToDessicated>
+			<ragingZombies>False</ragingZombies>
+			<replaceTwinkie>False</replaceTwinkie>
+			<zombiesDropBlood>False</zombiesDropBlood>
+			<zombiesCauseManhuntingResponse>False</zombiesCauseManhuntingResponse>
+		</defaults>
+	</ModSettings>
+</SettingsBlock>

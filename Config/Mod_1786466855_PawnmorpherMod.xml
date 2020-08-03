@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Pawnmorph.PawnmorpherSettings">
+		<transformChance>50</transformChance>
+		<formerChance>2</formerChance>
+		<partialChance>5</partialChance>
+		<maxMutationThoughts>3</maxMutationThoughts>
+		<logLevel>Warnings</logLevel>
+		<manhunterTfChance>0</manhunterTfChance>
+		<friendlyManhunterTfChance>0</friendlyManhunterTfChance>
+	</ModSettings>
+</SettingsBlock>

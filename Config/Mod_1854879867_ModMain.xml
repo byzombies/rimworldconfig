@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Tenants.TenantsSettings">
+		<AvailableRaces>
+			<li>Human</li>
+			<li>RRY_Alien_Yautja</li>
+			<li>Arachne</li>
+			<li>Alien_Argonian</li>
+			<li>BearMan</li>
+			<li>CamelMan</li>
+			<li>ElephantMan</li>
+			<li>ElkMan</li>
+			<li>FoxMan</li>
+			<li>GazelleMan</li>
+			<li>LynxMan</li>
+			<li>PigMan</li>
+			<li>RaccoonMan</li>
+			<li>WolfMan</li>
+			<li>Alien_Crystalloid</li>
+			<li>Alien_CrystalValkyrie</li>
+			<li>Fantasy_Goblin</li>
+			<li>Alien_Asari_Blue</li>
+			<li>Alien_Asari_Violet</li>
+			<li>Alien_Asari_Lightblue</li>
+			<li>Alien_Asari_Green</li>
+			<li>Alien_Astoriel</li>
+			<li>Alien_Drow_Otto</li>
+			<li>AFerian</li>
+			<li>Alien_Kijin</li>
+			<li>DRNTF_Race</li>
+			<li>LotRD_DwarfStandardRace</li>
+			<li>LotRE_ElfStandardRace</li>
+			<li>LotRE_ElfStandardRaceHalf</li>
+			<li>Ratkin</li>
+			<li>Alien_NiHal</li>
+			<li>Alien_Orassan</li>
+			<li>Rabbie</li>
+			<li>Alien_Zhthyhl</li>
+			<li>Alien_HornedSkaven</li>
+			<li>Alien_SkavenStorm</li>
+			<li>Alien_Skaven</li>
+			<li>Alien_Ungor</li>
+			<li>Alien_Gor</li>
+			<li>Alien_Bullgor</li>
+			<li>Alien_Shearl</li>
+			<li>Alien_Meargh</li>
+			<li>Alien_Fimm</li>
+			<li>Alien_Dirach</li>
+			<li>Alien_Racc</li>
+		</AvailableRaces>
+	</ModSettings>
+</SettingsBlock>

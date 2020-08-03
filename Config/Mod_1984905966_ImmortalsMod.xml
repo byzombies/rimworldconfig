@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Immortals.ImmortalsSettings">
+		<deathEffectOnVal>0</deathEffectOnVal>
+		<deathEffectVal>-0.1</deathEffectVal>
+		<deathEffectSlider>-0.2</deathEffectSlider>
+		<passionChance>0.09999999</passionChance>
+		<canGetConditions>False</canGetConditions>
+		<humanoidImmortalityTransfer>0.2</humanoidImmortalityTransfer>
+		<pawnTypeCustomizations>
+			<keys />
+			<values />
+		</pawnTypeCustomizations>
+		<hediffCustomizations>
+			<keys />
+			<values />
+		</hediffCustomizations>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TorannMagic.ModOptions.Settings">
+		<AIMarking>True</AIMarking>
+		<magicyteChance>0.005</magicyteChance>
+		<paracyteSoftCap>50</paracyteSoftCap>
+		<autocastCombatMinThreshold>0.2</autocastCombatMinThreshold>
+	</ModSettings>
+</SettingsBlock>

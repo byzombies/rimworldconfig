@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<username>byzombies</username>
+		<autoAcceptSteam>True</autoAcceptSteam>
+		<showDevInfo>True</showDevInfo>
+		<serverSettings>
+			<autosaveInterval>1</autosaveInterval>
+			<pauseOnAutosave>True</pauseOnAutosave>
+			<steam>True</steam>
+			<direct>True</direct>
+			<lan>False</lan>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>

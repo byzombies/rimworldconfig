@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Moody.Settings">
+		<ShowPawnPicture>True</ShowPawnPicture>
+		<MoodyX>2013</MoodyX>
+		<MoodyY>81</MoodyY>
+		<MoodyWidth>470</MoodyWidth>
+		<MoodyHeight>373</MoodyHeight>
+		<LessonSeenMoody>True</LessonSeenMoody>
+		<LessonSeenSummary>True</LessonSeenSummary>
+		<LessonSeenThought>True</LessonSeenThought>
+		<LessonSeenTemperature>True</LessonSeenTemperature>
+		<LessonSeenSkill>True</LessonSeenSkill>
+		<LessonSeenJob>True</LessonSeenJob>
+		<LessonSeenHealth>True</LessonSeenHealth>
+	</ModSettings>
+</SettingsBlock>
